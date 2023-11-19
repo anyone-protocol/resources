@@ -29,7 +29,7 @@ for dir in "${directories[@]}"; do
     fi
 done
 
-echo "Renewing fingerprint. Installing ATOR relay patch, stand by for the service to restart.."
+echo "Renewing fingerprint and restarting tor. Stand by for the service to restart.."
 
 # Restarts tor service
 systemctl restart tor
