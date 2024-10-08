@@ -1,0 +1,398 @@
+{
+  "0x002b7c8158fb6C1FDCC144a58c36e686a6dcdB5E": {
+    "claimable": "98727549611011254099",
+    "redeemed": "64834047882814028491"
+  },
+  "0x027aBf2e14bc9Aa5126CF0dE7Aa687B474776383": {
+    "claimable": "122749822415249484927",
+    "redeemed": "122749822415249484927"
+  },
+  "0x03d3A2b237106b228f2d6307fF33c6b2F3448E38": {
+    "claimable": "3.301642023271512125221e+21",
+    "redeemed": "1863301157484795313993"
+  },
+  "0x044B44d10A99f15Ebb614F8F711EB1bB366F2B9e": {
+    "claimable": "1.179436120887065472275e+21",
+    "redeemed": "0"
+  },
+  "0x05B362A7Bf99d114597d015fd66cDc29bF5238b3": {
+    "claimable": "355271360539883250898",
+    "redeemed": "353824167583440747650"
+  },
+  "0x05a2DbC13d1F2F7A1Daf99F88557cdc3388D073f": {
+    "claimable": "453206539407134209",
+    "redeemed": "0"
+  },
+  "0x078eC83Dcb4Eb62015ebE71ff3506e582ACA0D67": {
+    "claimable": "651083668733407299348",
+    "redeemed": "542952704484795201034"
+  },
+  "0x07F7b47324A000E09F6e2484607d5F8725A2185B": {
+    "claimable": "365394465771438403601",
+    "redeemed": "0"
+  },
+  "0x08248727bb8cCD2ba0F4f3c6033d729e8F04234e": {
+    "claimable": "63558855256257573130",
+    "redeemed": "0"
+  },
+  "0x0998229A91eb8f1D1880a5324585CB8c4a79D67E": {
+    "claimable": "174716436921082035839",
+    "redeemed": "155249709720035369032"
+  },
+  "0x0E630a3549F95Bbe77D156Aa8Da6D21bBFcaa86f": {
+    "claimable": "47829132673843082905",
+    "redeemed": "0"
+  },
+  "0x13c4a32471b1865234c135B5f0C4355Db8c88c1e": {
+    "claimable": "1.215785702525589819234e+21",
+    "redeemed": "537669204346179800950"
+  },
+  "0x15618aF8EBcEb15C929D31D88051189C29b7E71A": {
+    "claimable": "383441694805444148",
+    "redeemed": "0"
+  },
+  "0x1BF4D23Ae938A2CEB343FA1507D77452b441C6e5": {
+    "claimable": "123866137162788258062",
+    "redeemed": "0"
+  },
+  "0x1F102e888a437Be8B37485EeC3aa6F9EDE379D8F": {
+    "claimable": "11931627049214782591",
+    "redeemed": "7282611714502697790"
+  },
+  "0x220787963d84EA15D41B9929B47A13be1e9e4CE1": {
+    "claimable": "114121864329900448680",
+    "redeemed": "0"
+  },
+  "0x25C9e409fB5472002ec1260E6ed57B1642c9a600": {
+    "claimable": "50913657525590414276",
+    "redeemed": "37889523604257641402"
+  },
+  "0x2961Ce1a12f3A5DB1dFe82C921750562aB8236E9": {
+    "claimable": "24617219990952743",
+    "redeemed": "0"
+  },
+  "0x29A91779478F8189a5b3e12087159c69CA949196": {
+    "claimable": "49497085629114495332",
+    "redeemed": "0"
+  },
+  "0x2B235121520C10D4f6A8FD6C083899FeF1009DCb": {
+    "claimable": "145146233237425262768",
+    "redeemed": "0"
+  },
+  "0x2B75B8223fe26622a4540ceD3a49EFdE53ae4E6c": {
+    "claimable": "264732022960733947281",
+    "redeemed": "0"
+  },
+  "0x370026BE71Cc44702D494aFAD640800d1b749e53": {
+    "claimable": "49453414049981498694",
+    "redeemed": "41818665848825411165"
+  },
+  "0x38Ecc8f16050f7249CA4CeEc8be0b4A9A008302b": {
+    "claimable": "5528132078762592441",
+    "redeemed": "0"
+  },
+  "0x40C1DAF6880b94dA2959a16c13c664Dc33769966": {
+    "claimable": "378825340624813058588",
+    "redeemed": "258742411383237040224"
+  },
+  "0x40c99B422554C531E629e14fFCbD40E1c0D9410c": {
+    "claimable": "38728643765855189663",
+    "redeemed": "0"
+  },
+  "0x445578aef5A57a4da4bDb98e333E07d8b5f6D271": {
+    "claimable": "88320140707808434555",
+    "redeemed": "0"
+  },
+  "0x44F5635264A7a0f024E3E1475824d152456548f2": {
+    "claimable": "11751540084406604107",
+    "redeemed": "11600430056897069467"
+  },
+  "0x4583c3b8931C10a56Df339406AF3dfAB4eC64aCB": {
+    "claimable": "98526798605721415541",
+    "redeemed": "0"
+  },
+  "0x48E12a5D0ae994d780Fd7e3680aA1b2739eE49c0": {
+    "claimable": "1192944014264369069",
+    "redeemed": "1170259047222945662"
+  },
+  "0x4C8811eb563B21Bf43e8d8218e31364245C381e9": {
+    "claimable": "2662422900519182008",
+    "redeemed": "0"
+  },
+  "0x4F26186b2C2Bf4Df5e64b72aF418c5b6f75B1579": {
+    "claimable": "179403082609001876",
+    "redeemed": "0"
+  },
+  "0x4b5225D793a969bAdeF13aD535CDf26B70D63bD4": {
+    "claimable": "16901745464562040171",
+    "redeemed": "0"
+  },
+  "0x519536c03Ae8638c39a1E210a5E6e249C00d55a6": {
+    "claimable": "19227399034022075866",
+    "redeemed": "0"
+  },
+  "0x5430Eca56CCd494E61BE8212a560225C96f79657": {
+    "claimable": "380006920461436572033",
+    "redeemed": "226070295301461730803"
+  },
+  "0x55466772eC101497AE094937700e7ac439212C71": {
+    "claimable": "3338453982159135217",
+    "redeemed": "1280087395682420608"
+  },
+  "0x5792a315072dC6aC08d6844Ef337628f0ceE88FC": {
+    "claimable": "7378319981487590900",
+    "redeemed": "0"
+  },
+  "0x5FAF4f9EbcE7e18a5fa9cd048133F7f2E1D83846": {
+    "claimable": "13316430590607295466",
+    "redeemed": "0"
+  },
+  "0x60f757A99c36344746E1feF0031455991DC0900b": {
+    "claimable": "586427409113418103",
+    "redeemed": "0"
+  },
+  "0x6B217e545639BA4626F520659f9CCA2045a01506": {
+    "claimable": "113189972635063973",
+    "redeemed": "0"
+  },
+  "0x6B97311f956F36B53e60174c2C4E951ef5d57e23": {
+    "claimable": "9525782041215693822",
+    "redeemed": "7187702576825144887"
+  },
+  "0x6D454e61876334ee2Ca473E3b4B66777C931886E": {
+    "claimable": "132256362623461918678",
+    "redeemed": "126255145117856695882"
+  },
+  "0x6b01dB24E26Ca2449219eA61E0a3Ad3942E814CF": {
+    "claimable": "10745142089938427379",
+    "redeemed": "0"
+  },
+  "0x6c395e848B3886578e125F68877e230732A9C9C5": {
+    "claimable": "268266035835847857694",
+    "redeemed": "256584780306078421999"
+  },
+  "0x735663bAA559207B22d8d718913E6b20C896a95E": {
+    "claimable": "94558326361752226368",
+    "redeemed": "55804496393441418542"
+  },
+  "0x758977aB9aAA398Dcbc71425AA66847e87Ea3a8B": {
+    "claimable": "8665124571467525760",
+    "redeemed": "0"
+  },
+  "0x7c97c022baf3eB989721cC5Ca619932C07Df522e": {
+    "claimable": "881702868676775918",
+    "redeemed": "0"
+  },
+  "0x7e09D13b29A61485f77C9Cc36664473F9Fc4d3D7": {
+    "claimable": "20893289065998363687",
+    "redeemed": "20777895847290772699"
+  },
+  "0x7e6Aaf2Db2b977f221273E2507AcdE2bAFD00aC5": {
+    "claimable": "38484266786602758794",
+    "redeemed": "0"
+  },
+  "0x7eF36447831FB7AD6371306d3F259B2e3faAfE0C": {
+    "claimable": "812250584101689",
+    "redeemed": "0"
+  },
+  "0x88964De264D41A0f6154d0FC8112cB4DDCc979F0": {
+    "claimable": "87595095112083085667",
+    "redeemed": "0"
+  },
+  "0x8D5F83CC91FA4907F824671cb8b594d2C21051C8": {
+    "claimable": "458236755221024374767",
+    "redeemed": "369580116302809767011"
+  },
+  "0x8a2E6eDa703D5fC7e48b4d46a8439401DF4d79A5": {
+    "claimable": "1623222374521544209",
+    "redeemed": "0"
+  },
+  "0x8e0d8B9659A2CD968Ae0b266D05B7d7C7aF09985": {
+    "claimable": "403808270383979164",
+    "redeemed": "0"
+  },
+  "0x8e4DB5ED88c64257B955A19d03315D1C94D83f9a": {
+    "claimable": "1537721652889283064",
+    "redeemed": "0"
+  },
+  "0x8e546a35e0d30059876694d61E660b4F7d1c9E0F": {
+    "claimable": "734958925008747423026",
+    "redeemed": "0"
+  },
+  "0x911F6179BAa9c413b76A0417902781E05F5b7539": {
+    "claimable": "101723297136045474086",
+    "redeemed": "70852790116968129553"
+  },
+  "0x92EFDcf1982A47cdcceF108E51FB3aec23d738c3": {
+    "claimable": "98787029324825707673",
+    "redeemed": "0"
+  },
+  "0x95B0a53834630f6E1C5c2626B62632db8B8fe091": {
+    "claimable": "25832363140550090697",
+    "redeemed": "0"
+  },
+  "0x95eDd13022AE491Da7eFcd4ddfe34aF855D652E5": {
+    "claimable": "76158529559536531453",
+    "redeemed": "0"
+  },
+  "0x96cDf8A460271d587B52b6910Af0Cb31aa1D4423": {
+    "claimable": "4505327240395114299",
+    "redeemed": "0"
+  },
+  "0x9B311295e8590D22fDa5A2563443C48641550435": {
+    "claimable": "22055812649484137001",
+    "redeemed": "0"
+  },
+  "0x9b5c564Ad01890229330aE09bbb716567E7708aF": {
+    "claimable": "277052060771496269120",
+    "redeemed": "0"
+  },
+  "0xAC174626DECe3F4bbC4fC23cC58D8C9a7B30c2dF": {
+    "claimable": "3766792854992848990",
+    "redeemed": "0"
+  },
+  "0xAb8AF03Ad824c5aFaB3E7DE1dc500099cfb9d018": {
+    "claimable": "107174519317842452186",
+    "redeemed": "106325010444894652332"
+  },
+  "0xB13C59ef421109016115eCEC9277321e2A09b1B8": {
+    "claimable": "267138242058087240072",
+    "redeemed": "238386993836169059833"
+  },
+  "0xBB1973a07b9802bD1bb2B868c96d6C8a6BB0Ac50": {
+    "claimable": "207752582059935013497",
+    "redeemed": "0"
+  },
+  "0xCd319E22DBC4B55492002d4b116d00d5f6072a61": {
+    "claimable": "64426179436086902447",
+    "redeemed": "0"
+  },
+  "0xD88D15C11da5330F8C4D9579Ac45a6A76fc3f2b6": {
+    "claimable": "3388875028527742878",
+    "redeemed": "787889659135769562"
+  },
+  "0xDeE2a2e6e3298395c47E1283D2951b6016d9F56D": {
+    "claimable": "11189757896919107731",
+    "redeemed": "2255668984709872186"
+  },
+  "0xE634b6440Df953Edc199e0f1E9C8aAF8592435b7": {
+    "claimable": "72330289562575699230",
+    "redeemed": "0"
+  },
+  "0xEE7a7D85336Aa5F6da385de1547c7381719D9d08": {
+    "claimable": "86991387425635452915",
+    "redeemed": "23266044810436518698"
+  },
+  "0xEc95Cba734641596d9daB2b58b3E427876EadaCC": {
+    "claimable": "1380825992972970635",
+    "redeemed": "499123124296194717"
+  },
+  "0xF188CCdD5107fc2C04eDe0Ec04afBbf45DAe275D": {
+    "claimable": "264167927159688853736",
+    "redeemed": "194485651334160573370"
+  },
+  "0xF2720503fb57A777FDcE8317f8ddeA083EC243b1": {
+    "claimable": "107070234817718590864",
+    "redeemed": "0"
+  },
+  "0xF3914B40644091B56878359cbFa8E4885b6A3185": {
+    "claimable": "77457798419729746561",
+    "redeemed": "0"
+  },
+  "0xF45145a266AF4e6c669B884F11a2468B69BF5485": {
+    "claimable": "56637723910825920801",
+    "redeemed": "20460014797399721805"
+  },
+  "0xF75cf16e63095FA9Bb3c0Cbe9eFB14f9BAD5c234": {
+    "claimable": "75075931427247594948",
+    "redeemed": "0"
+  },
+  "0xFBe37475c85A855B9eC83651A43568689b78aAE3": {
+    "claimable": "4200889876573557457",
+    "redeemed": "0"
+  },
+  "0xFaAF3cBe63800f7d93E18F6d08C8336E357DD57a": {
+    "claimable": "104340934317355197034",
+    "redeemed": "100079297396565145643"
+  },
+  "0xa3EE387E97fbeC75A2623A809726c38f6ac19B2D": {
+    "claimable": "3235731692296070162",
+    "redeemed": "0"
+  },
+  "0xa9C4eC98eab027e9A5FA382d79AbdAcA0Fb343F7": {
+    "claimable": "7548505208551318939",
+    "redeemed": "0"
+  },
+  "0xaA75649B094B5C5C802772596B11881274d37937": {
+    "claimable": "8708601399292506",
+    "redeemed": "0"
+  },
+  "0xaB3b0d9a295897394d6ab2f6Aad09aA885172581": {
+    "claimable": "17164897650878589104",
+    "redeemed": "0"
+  },
+  "0xaa7caa7da7C6328Bc85412e458acB15FD34E43A8": {
+    "claimable": "2.068541392177261453277e+21",
+    "redeemed": "0"
+  },
+  "0xb380B3058fC840D2a0E3948eEF6FE51515FfF43d": {
+    "claimable": "205029553718571073",
+    "redeemed": "0"
+  },
+  "0xbaE06850faBD42277098EBc125C554e23B04C960": {
+    "claimable": "314017625220803252400",
+    "redeemed": "0"
+  },
+  "0xbba230F3Ed5994Dd1AFd183d2FB9F244f9aFee12": {
+    "claimable": "4319821120633607093",
+    "redeemed": "0"
+  },
+  "0xbccd820d95F4669458163B42DcC26a85c9F65965": {
+    "claimable": "6874309585008560104",
+    "redeemed": "0"
+  },
+  "0xcB4f9A94363D688E11f5F3d87814aA492092ff97": {
+    "claimable": "1224166848730764123",
+    "redeemed": "0"
+  },
+  "0xcCec267ED87a252617a5F60d3ea46ee9FC5130B5": {
+    "claimable": "201112289687478597797",
+    "redeemed": "180503633714988459694"
+  },
+  "0xcd098C491C07118Ab0ddF6a26042c516eb3cc13b": {
+    "claimable": "118975370068883049390",
+    "redeemed": "0"
+  },
+  "0xd64f3d85Ac39Dd339e595337AE79Ac7b269CA9dD": {
+    "claimable": "457430276751249874542",
+    "redeemed": "383079569741259846270"
+  },
+  "0xdFf41fDE39cf014dE4A25B40FaC0B80aB6691486": {
+    "claimable": "142710607888193277446",
+    "redeemed": "30421235469508703535"
+  },
+  "0xdbbbD57030D3BB067293E338305002b1d830768E": {
+    "claimable": "201368311687882303",
+    "redeemed": "0"
+  },
+  "0xe1eC402F7D6A6765f6f90aF1D1bd3e2A8B340f9e": {
+    "claimable": "3.656067113940883468515e+21",
+    "redeemed": "0"
+  },
+  "0xe4eDa95B2166C85537948A7d25D3cA3DAb707495": {
+    "claimable": "53827681661547629148",
+    "redeemed": "53827681661547629148"
+  },
+  "0xf76b2F973b8e82E362631742CdAb1c589C3F8510": {
+    "claimable": "952020607543336662",
+    "redeemed": "0"
+  },
+  "0xf7a51D1Ab2F847F18D4291C9F45e3c82Cb3BB712": {
+    "claimable": "56057688810012672099",
+    "redeemed": "0"
+  },
+  "0xfA162D50b8a10841f7eDB0Cb3F082c61062469F7": {
+    "claimable": "7578334737709269056",
+    "redeemed": "0"
+  }
+}
