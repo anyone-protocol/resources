@@ -1,0 +1,4 @@
+checkRedeemed: true
+
+This is the snapshot taken before redeploying the distribution contract. 
+Any rewards here (minus what was in the pre-testnet snapshot) need to be added on. 
